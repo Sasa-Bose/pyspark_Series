@@ -1,6 +1,0 @@
-# Load and query Yellow Taxi data
-from pyspark.sql import SparkSession
-/* What is master(local N)?
-The --master option specifies the master URL for a distributed cluster, or local to run locally with one thread, or local[N] to run locally with N threads.
-
-Source: See Spark docs here. See all options here */
