@@ -18,7 +18,7 @@ Spark for efficient data processing and analysis.
 
 ## Running the Code on Interactive Shell
 
-1. Once the lab is spun up, open a terminal window.
+1. Once the lab is ready, open a terminal window.
 
 2. To execute the code on an interactive pyspark shell, we need to login to Spark docker container. Execute following command on terminal to do the same.
 
@@ -31,7 +31,7 @@ Spark for efficient data processing and analysis.
 4. Once the shell is launced, navigate into Project folder on Desktop, for getting the commands to run in the interactive shell.
 
 ## Running the Code on JupyterLab 
-1. Once the lab is spun up, open a terminal window.
+1. Once the lab is ready, open a terminal window.
 
 2. To run the code in jupyterlab we need to copy the data and code files to the jupyterlab's docker container. Execute following command on the terminal to do the same.
 
