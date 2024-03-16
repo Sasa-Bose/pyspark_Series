@@ -14,7 +14,7 @@ machine learning techniques to derive meaningful insights. The large volume and
 complexity of the dataset often require tools and frameworks like PySpark or Apache
 Spark for efficient data processing and analysis.
 
-[NewYork Taxi Trip Dataset]([url](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page))
+[NewYork Taxi Trip Dataset](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ## Running the Code on Interactive Shell
 
