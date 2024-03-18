@@ -38,6 +38,6 @@ df_output.write.mode('overwrite').parquet(output_path)
 # %%
 # Stop the session
 spark.stop()
-
+#Two output files are generated one is _SUCCESS and "part-00000-3866e57f-4764-4e1c-9905-1f039eb9577c-c000.snappy.parquet"
 
 
