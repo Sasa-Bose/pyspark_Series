@@ -1,7 +1,7 @@
 """
 Example:
     1. run this Spark app: 
-        spark-submit spark-streaming-demo-2.py
+        spark-submit spark-streaming-demo-2-append.py
 
     Source: spark.apache.org/docs/latest/structured-streaming-programming-guide.html
 """
